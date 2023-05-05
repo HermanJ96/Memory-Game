@@ -1,0 +1,18 @@
+body {
+  background-color: gainsboro;
+  display: flex;
+}
+#game {
+  margin: auto;
+  width: max-content;
+}
+
+#game div {
+  background-color: black;
+  border: 10px solid whitesmoke;
+  width: 15%;
+  height: 100px;
+  margin: 10px;
+  display: inline-block;
+}
+
